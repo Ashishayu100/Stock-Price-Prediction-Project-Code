@@ -47,18 +47,6 @@ stock-price-dashboard/
 │── README.md                  # Project documentation
 ```
 
-## Screenshots
-### **Stock Price Prediction**
-![Stock Price Dashboard](screenshot1.png)
-
-### **Stock Volume Analysis**
-![Stock Volume](screenshot2.png)
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributors
-- [Your Name](https://github.com/yourusername)
 
 ## Future Enhancements
 - Add more stock data sources (e.g., real-time API integration).
